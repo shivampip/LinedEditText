@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LinedEditText">
+        <attr name="lineTextGap" format="float"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="lineWidth" format="float"/>
+    </declare-styleable>
+</resources>
